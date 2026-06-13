@@ -1,6 +1,6 @@
 # Hi, I'm Arham Javed 👋
 
-> Generative AI Specialist | Python Enthusiast | Visionary Coder
+> AI/ML Engineer | Generative AI Specialist | Python Enthusiast | Visionary Coder
 
 ---
 
