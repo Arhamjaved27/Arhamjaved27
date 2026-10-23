@@ -1,65 +1,101 @@
 # Hi, I'm Arham Javed 👋
 
-> AI/ML Engineer | Generative AI Specialist | Python Enthusiast | Visionary Coder
+> **AI/ML Engineer | Generative AI | Machine Learning | Python**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Generative AI specialist who thrives on turning complex problems into elegant, real-world solutions. With a strong foundation in **Python**, **Flask**, **Computer Vision**, and **React**, I love building innovative AI-powered systems that make a difference.
+I'm an **AI/ML Engineer** focused on building practical AI systems using **Machine Learning, Generative AI, LLMs, and Python**.
 
-- 🧠 Built my first chatbot before I even learned recursion
-- 📚 The kind of person who reads research papers for fun
-- 💡 Always exploring how AI can bridge the gap between theory and everyday life
+I enjoy taking AI ideas from experimentation to production — from model development and evaluation to building APIs, containerizing applications, and deploying AI workloads on the cloud.
 
----
-
-## 🛠️ Top Skills
-
-- **Languages:** Python, C, C++, Html, Css, JavaScript, C#
-- **Frameworks:** Flask, React
-- **Domains:** Computer Vision, Generative AI, Machine Learning
-- **Others:** 3D Design (Spline, Blender), REST APIs
+- 🤖 Building AI, ML & Generative AI solutions
+- 🧠 Working with LLMs, RAG, AI agents & model evaluation
+- ⚡ Developing production-ready AI APIs with FastAPI
+- ☁️ Deploying and managing AI applications with AWS & Docker
+- 🔬 Continuously exploring new AI/ML techniques and technologies
 
 ---
 
-## 🌟 Favorite Side Projects
+## 🧠 AI & ML Skills
 
-- 👾 Late-night AI builds and experiments
-- 🤖 Chatbots & Vision AI apps
-- 🎮 Strategy game automation & simulation
-- 🎨 3D interactive scenes with Spline & Blender
-
----
-
-## 🎯 Fun Facts
-
-- I love turning complex AI problems into simple, real-world solutions.
-- I built my first chatbot before I even learned recursion.
-- I'm the kind of person who reads research papers for fun.
+- **Machine Learning:** Model Training, Evaluation, Feature Engineering, Classification & Regression
+- **Generative AI:** LLMs, RAG, AI Agents, Prompt Engineering, Fine-tuning
+- **AI Applications:** Chatbots, AI Voice Agents, Intelligent Automation
+- **Model Evaluation:** Performance Testing, Evaluation Pipelines & Benchmarking
+- **Programming:** Python, C, C++
 
 ---
 
-## 🎮 Hobbies & Interests
+## ⚙️ Backend & AI APIs
 
-- Building AI side projects late at night.
-- Reading sci-fi novels and imagining future tech.
-- Gaming to relax—especially strategy and simulation games.
-- Exploring 3D design with Spline and Blender.
+- **FastAPI**
+- REST APIs
+- Pydantic
+- Async Python
+- API Integration
+- AI/ML Model Serving
 
 ---
 
-## 🌐 Connect with Me
+## ☁️ Cloud & DevOps
+
+- **AWS**
+- **Docker**
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD
+- Linux
+
+---
+
+## 🔬 What I'm Currently Exploring
+
+- 🧠 Large Language Models & Generative AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents & Agentic Systems
+- 🎯 LLM Fine-tuning & Evaluation
+- 📞 AI Voice Agents
+- 🚀 Production AI/ML deployment
+- ☁️ Scalable AI systems on AWS
+
+---
+
+## 🌟 What I Build
+
+- 🤖 Generative AI applications
+- 💬 RAG-based AI chatbots
+- 🧠 AI agents
+- 📞 AI voice agents
+- 📊 Machine learning models
+- ⚡ FastAPI-based AI services
+- 🐳 Dockerized AI/ML applications
+- ☁️ Cloud-deployed AI systems
+
+---
+
+## 🎯 My Approach
+
+I focus on building AI systems that are not only capable, but also **reliable, testable, and production-ready**.
+
+> **Build → Evaluate → Improve → Deploy**
+
+---
+
+## 🌐 Connect With Me
 
 - 🌍 [arhamlab.com](https://arhamlab.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/meetarham/)
 - 📧 Arhamjaved867@gmail.com
-- 📱 +92 3245341362
 
 ---
+
+## 📊 GitHub Stats
 
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhamjaved27&show_icons=true&theme=radical)
 
 <!--
-Let's connect and build something awesome together!
+Let's build intelligent systems that solve real-world problems. 🤖
 -->
