@@ -96,7 +96,7 @@ I focus on building AI systems that are not only capable, but also **reliable, t
 
 ![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arhamjaved27&show_icons=true&hide_rank=true&include_all_commits=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arhamjaved27)
+
 <!--
 Let's build intelligent systems that solve real-world problems. 🤖
 -->
